@@ -1,0 +1,381 @@
+,Date,Team A,Result,Team B,Status,Season
+0,26.07.2020,Arsenal,3 : 2,Watford,Завершен,england-premier-league-2019-2020
+1,26.07.2020,Burnley,1 : 2,Brighton,Завершен,england-premier-league-2019-2020
+2,26.07.2020,Chelsea,2 : 0,Wolverhampton,Завершен,england-premier-league-2019-2020
+3,26.07.2020,Crystal Palace,1 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+4,26.07.2020,Everton,1 : 3,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+5,26.07.2020,Leicester City,0 : 2,Manchester United,Завершен,england-premier-league-2019-2020
+6,26.07.2020,Manchester City,5 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+7,26.07.2020,Newcastle United,1 : 3,Liverpool,Завершен,england-premier-league-2019-2020
+8,26.07.2020,Southampton,3 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+9,26.07.2020,West Ham United,1 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+10,22.07.2020,Liverpool,5 : 3,Chelsea,Завершен,england-premier-league-2019-2020
+11,22.07.2020,Manchester United,1 : 1,West Ham United,Завершен,england-premier-league-2019-2020
+12,21.07.2020,Aston Villa,1 : 0,Arsenal,Завершен,england-premier-league-2019-2020
+13,21.07.2020,Watford,0 : 4,Manchester City,Завершен,england-premier-league-2019-2020
+14,20.07.2020,Wolverhampton,2 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+15,20.07.2020,Brighton,0 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+16,20.07.2020,Sheffield United,0 : 1,Everton,Завершен,england-premier-league-2019-2020
+17,19.07.2020,Tottenham Hotspur,3 : 0,Leicester City,Завершен,england-premier-league-2019-2020
+18,19.07.2020,AFC Bournemouth,0 : 2,Southampton,Завершен,england-premier-league-2019-2020
+19,18.07.2020,Norwich City,0 : 2,Burnley,Завершен,england-premier-league-2019-2020
+20,17.07.2020,West Ham United,3 : 1,Watford,Завершен,england-premier-league-2019-2020
+21,16.07.2020,Crystal Palace,0 : 2,Manchester United,Завершен,england-premier-league-2019-2020
+22,16.07.2020,Southampton,1 : 1,Brighton,Завершен,england-premier-league-2019-2020
+23,16.07.2020,Everton,1 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+24,16.07.2020,Leicester City,2 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+25,15.07.2020,Arsenal,2 : 1,Liverpool,Завершен,england-premier-league-2019-2020
+26,15.07.2020,Burnley,1 : 1,Wolverhampton,Завершен,england-premier-league-2019-2020
+27,15.07.2020,Manchester City,2 : 1,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+28,15.07.2020,Newcastle United,1 : 3,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+29,14.07.2020,Chelsea,1 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+30,13.07.2020,Manchester United,2 : 2,Southampton,Завершен,england-premier-league-2019-2020
+31,12.07.2020,AFC Bournemouth,4 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+32,12.07.2020,Tottenham Hotspur,2 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+33,12.07.2020,Aston Villa,2 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+34,12.07.2020,Wolverhampton,3 : 0,Everton,Завершен,england-premier-league-2019-2020
+35,11.07.2020,Brighton,0 : 5,Manchester City,Завершен,england-premier-league-2019-2020
+36,11.07.2020,Sheffield United,3 : 0,Chelsea,Завершен,england-premier-league-2019-2020
+37,11.07.2020,Liverpool,1 : 1,Burnley,Завершен,england-premier-league-2019-2020
+38,11.07.2020,Norwich City,0 : 4,West Ham United,Завершен,england-premier-league-2019-2020
+39,11.07.2020,Watford,2 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+40,09.07.2020,Aston Villa,0 : 3,Manchester United,Завершен,england-premier-league-2019-2020
+41,09.07.2020,AFC Bournemouth,0 : 0,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+42,09.07.2020,Everton,1 : 1,Southampton,Завершен,england-premier-league-2019-2020
+43,08.07.2020,Brighton,1 : 3,Liverpool,Завершен,england-premier-league-2019-2020
+44,08.07.2020,Manchester City,5 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+45,08.07.2020,Sheffield United,1 : 0,Wolverhampton,Завершен,england-premier-league-2019-2020
+46,08.07.2020,West Ham United,0 : 1,Burnley,Завершен,england-premier-league-2019-2020
+47,07.07.2020,Arsenal,1 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+48,07.07.2020,Crystal Palace,2 : 3,Chelsea,Завершен,england-premier-league-2019-2020
+49,07.07.2020,Watford,2 : 1,Norwich City,Завершен,england-premier-league-2019-2020
+50,06.07.2020,Tottenham Hotspur,1 : 0,Everton,Завершен,england-premier-league-2019-2020
+51,05.07.2020,Southampton,1 : 0,Manchester City,Завершен,england-premier-league-2019-2020
+52,05.07.2020,Liverpool,2 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+53,05.07.2020,Newcastle United,2 : 2,West Ham United,Завершен,england-premier-league-2019-2020
+54,05.07.2020,Burnley,1 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+55,04.07.2020,Chelsea,3 : 0,Watford,Завершен,england-premier-league-2019-2020
+56,04.07.2020,Wolverhampton,0 : 2,Arsenal,Завершен,england-premier-league-2019-2020
+57,04.07.2020,Leicester City,3 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+58,04.07.2020,Manchester United,5 : 2,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+59,04.07.2020,Norwich City,0 : 1,Brighton,Завершен,england-premier-league-2019-2020
+60,02.07.2020,Manchester City,4 : 0,Liverpool,Завершен,england-premier-league-2019-2020
+61,02.07.2020,Sheffield United,3 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+62,01.07.2020,West Ham United,3 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+63,01.07.2020,AFC Bournemouth,1 : 4,Newcastle United,Завершен,england-premier-league-2019-2020
+64,01.07.2020,Arsenal,4 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+65,01.07.2020,Everton,2 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+66,30.06.2020,Brighton,0 : 3,Manchester United,Завершен,england-premier-league-2019-2020
+67,29.06.2020,Crystal Palace,0 : 1,Burnley,Завершен,england-premier-league-2019-2020
+68,28.06.2020,Watford,1 : 3,Southampton,Завершен,england-premier-league-2019-2020
+69,27.06.2020,Aston Villa,0 : 1,Wolverhampton,Завершен,england-premier-league-2019-2020
+70,25.06.2020,Chelsea,2 : 1,Manchester City,Завершен,england-premier-league-2019-2020
+71,25.06.2020,Burnley,1 : 0,Watford,Завершен,england-premier-league-2019-2020
+72,25.06.2020,Southampton,0 : 2,Arsenal,Завершен,england-premier-league-2019-2020
+73,24.06.2020,Liverpool,4 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+74,24.06.2020,Manchester United,3 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+75,24.06.2020,Newcastle United,1 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+76,24.06.2020,Norwich City,0 : 1,Everton,Завершен,england-premier-league-2019-2020
+77,24.06.2020,Wolverhampton,1 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+78,23.06.2020,Tottenham Hotspur,2 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+79,23.06.2020,Leicester City,0 : 0,Brighton,Завершен,england-premier-league-2019-2020
+80,22.06.2020,Manchester City,5 : 0,Burnley,Завершен,england-premier-league-2019-2020
+81,21.06.2020,Everton,0 : 0,Liverpool,Завершен,england-premier-league-2019-2020
+82,21.06.2020,Aston Villa,1 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+83,21.06.2020,Newcastle United,3 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+84,20.06.2020,AFC Bournemouth,0 : 2,Crystal Palace,Завершен,england-premier-league-2019-2020
+85,20.06.2020,West Ham United,0 : 2,Wolverhampton,Завершен,england-premier-league-2019-2020
+86,20.06.2020,Brighton,2 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+87,20.06.2020,Watford,1 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+88,19.06.2020,Tottenham Hotspur,1 : 1,Manchester United,Завершен,england-premier-league-2019-2020
+89,19.06.2020,Norwich City,0 : 3,Southampton,Завершен,england-premier-league-2019-2020
+90,09.03.2020,Leicester City,4 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+91,08.03.2020,Manchester United,2 : 0,Manchester City,Завершен,england-premier-league-2019-2020
+92,08.03.2020,Chelsea,4 : 0,Everton,Завершен,england-premier-league-2019-2020
+93,07.03.2020,Burnley,1 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+94,07.03.2020,Arsenal,1 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+95,07.03.2020,Crystal Palace,1 : 0,Watford,Завершен,england-premier-league-2019-2020
+96,07.03.2020,Sheffield United,1 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+97,07.03.2020,Southampton,0 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+98,07.03.2020,Wolverhampton,0 : 0,Brighton,Завершен,england-premier-league-2019-2020
+99,07.03.2020,Liverpool,2 : 1,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+100,17.06.2020,Manchester City,3 : 0,Arsenal,Завершен,england-premier-league-2019-2020
+101,17.06.2020,Aston Villa,0 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+102,01.03.2020,Everton,1 : 1,Manchester United,Завершен,england-premier-league-2019-2020
+103,01.03.2020,Tottenham Hotspur,2 : 3,Wolverhampton,Завершен,england-premier-league-2019-2020
+104,29.02.2020,Watford,3 : 0,Liverpool,Завершен,england-premier-league-2019-2020
+105,29.02.2020,AFC Bournemouth,2 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+106,29.02.2020,Newcastle United,0 : 0,Burnley,Завершен,england-premier-league-2019-2020
+107,29.02.2020,West Ham United,3 : 1,Southampton,Завершен,england-premier-league-2019-2020
+108,29.02.2020,Brighton,0 : 1,Crystal Palace,Завершен,england-premier-league-2019-2020
+109,28.02.2020,Norwich City,1 : 0,Leicester City,Завершен,england-premier-league-2019-2020
+110,24.02.2020,Liverpool,3 : 2,West Ham United,Завершен,england-premier-league-2019-2020
+111,23.02.2020,Arsenal,3 : 2,Everton,Завершен,england-premier-league-2019-2020
+112,23.02.2020,Manchester United,3 : 0,Watford,Завершен,england-premier-league-2019-2020
+113,23.02.2020,Wolverhampton,3 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+114,22.02.2020,Leicester City,0 : 1,Manchester City,Завершен,england-premier-league-2019-2020
+115,22.02.2020,Burnley,3 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+116,22.02.2020,Crystal Palace,1 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+117,22.02.2020,Sheffield United,1 : 1,Brighton,Завершен,england-premier-league-2019-2020
+118,22.02.2020,Southampton,2 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+119,22.02.2020,Chelsea,2 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+120,19.02.2020,Manchester City,2 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+121,17.02.2020,Chelsea,0 : 2,Manchester United,Завершен,england-premier-league-2019-2020
+122,16.02.2020,Arsenal,4 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+123,16.02.2020,Aston Villa,2 : 3,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+124,15.02.2020,Norwich City,0 : 1,Liverpool,Завершен,england-premier-league-2019-2020
+125,15.02.2020,Southampton,1 : 2,Burnley,Завершен,england-premier-league-2019-2020
+126,14.02.2020,Wolverhampton,0 : 0,Leicester City,Завершен,england-premier-league-2019-2020
+127,09.02.2020,Sheffield United,2 : 1,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+128,08.02.2020,Brighton,1 : 1,Watford,Завершен,england-premier-league-2019-2020
+129,08.02.2020,Everton,3 : 1,Crystal Palace,Завершен,england-premier-league-2019-2020
+130,02.02.2020,Tottenham Hotspur,2 : 0,Manchester City,Завершен,england-premier-league-2019-2020
+131,02.02.2020,Burnley,0 : 0,Arsenal,Завершен,england-premier-league-2019-2020
+132,01.02.2020,Manchester United,0 : 0,Wolverhampton,Завершен,england-premier-league-2019-2020
+133,01.02.2020,AFC Bournemouth,2 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+134,01.02.2020,Crystal Palace,0 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+135,01.02.2020,Liverpool,4 : 0,Southampton,Завершен,england-premier-league-2019-2020
+136,01.02.2020,Newcastle United,0 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+137,01.02.2020,Watford,2 : 3,Everton,Завершен,england-premier-league-2019-2020
+138,01.02.2020,West Ham United,3 : 3,Brighton,Завершен,england-premier-league-2019-2020
+139,01.02.2020,Leicester City,2 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+140,23.01.2020,Wolverhampton,1 : 2,Liverpool,Завершен,england-premier-league-2019-2020
+141,22.01.2020,Manchester United,0 : 2,Burnley,Завершен,england-premier-league-2019-2020
+142,22.01.2020,Leicester City,4 : 1,West Ham United,Завершен,england-premier-league-2019-2020
+143,22.01.2020,Tottenham Hotspur,2 : 1,Norwich City,Завершен,england-premier-league-2019-2020
+144,21.01.2020,Chelsea,2 : 2,Arsenal,Завершен,england-premier-league-2019-2020
+145,21.01.2020,AFC Bournemouth,3 : 1,Brighton,Завершен,england-premier-league-2019-2020
+146,21.01.2020,Aston Villa,2 : 1,Watford,Завершен,england-premier-league-2019-2020
+147,21.01.2020,Everton,2 : 2,Newcastle United,Завершен,england-premier-league-2019-2020
+148,21.01.2020,Sheffield United,0 : 1,Manchester City,Завершен,england-premier-league-2019-2020
+149,21.01.2020,Crystal Palace,0 : 2,Southampton,Завершен,england-premier-league-2019-2020
+150,19.01.2020,Liverpool,2 : 0,Manchester United,Завершен,england-premier-league-2019-2020
+151,19.01.2020,Burnley,2 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+152,18.01.2020,Newcastle United,1 : 0,Chelsea,Завершен,england-premier-league-2019-2020
+153,18.01.2020,Arsenal,1 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+154,18.01.2020,Brighton,1 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+155,18.01.2020,Manchester City,2 : 2,Crystal Palace,Завершен,england-premier-league-2019-2020
+156,18.01.2020,Norwich City,1 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+157,18.01.2020,Southampton,2 : 3,Wolverhampton,Завершен,england-premier-league-2019-2020
+158,18.01.2020,West Ham United,1 : 1,Everton,Завершен,england-premier-league-2019-2020
+159,18.01.2020,Watford,0 : 0,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+160,12.01.2020,Aston Villa,1 : 6,Manchester City,Завершен,england-premier-league-2019-2020
+161,12.01.2020,AFC Bournemouth,0 : 3,Watford,Завершен,england-premier-league-2019-2020
+162,11.01.2020,Tottenham Hotspur,0 : 1,Liverpool,Завершен,england-premier-league-2019-2020
+163,11.01.2020,Chelsea,3 : 0,Burnley,Завершен,england-premier-league-2019-2020
+164,11.01.2020,Everton,1 : 0,Brighton,Завершен,england-premier-league-2019-2020
+165,11.01.2020,Leicester City,1 : 2,Southampton,Завершен,england-premier-league-2019-2020
+166,11.01.2020,Manchester United,4 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+167,11.01.2020,Wolverhampton,1 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+168,11.01.2020,Crystal Palace,1 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+169,10.01.2020,Sheffield United,1 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+170,02.01.2020,Liverpool,2 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+171,01.01.2020,Arsenal,2 : 0,Manchester United,Завершен,england-premier-league-2019-2020
+172,01.01.2020,Manchester City,2 : 1,Everton,Завершен,england-premier-league-2019-2020
+173,01.01.2020,Norwich City,1 : 1,Crystal Palace,Завершен,england-premier-league-2019-2020
+174,01.01.2020,West Ham United,4 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+175,01.01.2020,Newcastle United,0 : 3,Leicester City,Завершен,england-premier-league-2019-2020
+176,01.01.2020,Southampton,1 : 0,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+177,01.01.2020,Watford,2 : 1,Wolverhampton,Завершен,england-premier-league-2019-2020
+178,01.01.2020,Brighton,1 : 1,Chelsea,Завершен,england-premier-league-2019-2020
+179,01.01.2020,Burnley,1 : 2,Aston Villa,Завершен,england-premier-league-2019-2020
+180,29.12.2019,Manchester City,2 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+181,29.12.2019,Liverpool,1 : 0,Wolverhampton,Завершен,england-premier-league-2019-2020
+182,29.12.2019,Arsenal,1 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+183,28.12.2019,Burnley,0 : 2,Manchester United,Завершен,england-premier-league-2019-2020
+184,28.12.2019,Norwich City,2 : 2,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+185,28.12.2019,West Ham United,1 : 2,Leicester City,Завершен,england-premier-league-2019-2020
+186,28.12.2019,Newcastle United,1 : 2,Everton,Завершен,england-premier-league-2019-2020
+187,28.12.2019,Southampton,1 : 1,Crystal Palace,Завершен,england-premier-league-2019-2020
+188,28.12.2019,Watford,3 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+189,28.12.2019,Brighton,2 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+190,27.12.2019,Wolverhampton,3 : 2,Manchester City,Завершен,england-premier-league-2019-2020
+191,26.12.2019,Leicester City,0 : 4,Liverpool,Завершен,england-premier-league-2019-2020
+192,26.12.2019,Manchester United,4 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+193,26.12.2019,AFC Bournemouth,1 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+194,26.12.2019,Aston Villa,1 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+195,26.12.2019,Chelsea,0 : 2,Southampton,Завершен,england-premier-league-2019-2020
+196,26.12.2019,Crystal Palace,2 : 1,West Ham United,Завершен,england-premier-league-2019-2020
+197,26.12.2019,Everton,1 : 0,Burnley,Завершен,england-premier-league-2019-2020
+198,26.12.2019,Sheffield United,1 : 1,Watford,Завершен,england-premier-league-2019-2020
+199,26.12.2019,Tottenham Hotspur,2 : 1,Brighton,Завершен,england-premier-league-2019-2020
+200,29.01.2020,West Ham United,0 : 2,Liverpool,Завершен,england-premier-league-2019-2020
+201,22.12.2019,Tottenham Hotspur,0 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+202,22.12.2019,Watford,2 : 0,Manchester United,Завершен,england-premier-league-2019-2020
+203,21.12.2019,Manchester City,3 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+204,21.12.2019,AFC Bournemouth,0 : 1,Burnley,Завершен,england-premier-league-2019-2020
+205,21.12.2019,Aston Villa,1 : 3,Southampton,Завершен,england-premier-league-2019-2020
+206,21.12.2019,Brighton,0 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+207,21.12.2019,Newcastle United,1 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+208,21.12.2019,Norwich City,1 : 2,Wolverhampton,Завершен,england-premier-league-2019-2020
+209,21.12.2019,Everton,0 : 0,Arsenal,Завершен,england-premier-league-2019-2020
+210,16.12.2019,Crystal Palace,1 : 1,Brighton,Завершен,england-premier-league-2019-2020
+211,15.12.2019,Arsenal,0 : 3,Manchester City,Завершен,england-premier-league-2019-2020
+212,15.12.2019,Manchester United,1 : 1,Everton,Завершен,england-premier-league-2019-2020
+213,15.12.2019,Wolverhampton,1 : 2,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+214,14.12.2019,Southampton,0 : 1,West Ham United,Завершен,england-premier-league-2019-2020
+215,14.12.2019,Burnley,1 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+216,14.12.2019,Chelsea,0 : 1,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+217,14.12.2019,Leicester City,1 : 1,Norwich City,Завершен,england-premier-league-2019-2020
+218,14.12.2019,Sheffield United,2 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+219,14.12.2019,Liverpool,2 : 0,Watford,Завершен,england-premier-league-2019-2020
+220,09.12.2019,West Ham United,1 : 3,Arsenal,Завершен,england-premier-league-2019-2020
+221,08.12.2019,Brighton,2 : 2,Wolverhampton,Завершен,england-premier-league-2019-2020
+222,08.12.2019,Aston Villa,1 : 4,Leicester City,Завершен,england-premier-league-2019-2020
+223,08.12.2019,Newcastle United,2 : 1,Southampton,Завершен,england-premier-league-2019-2020
+224,08.12.2019,Norwich City,1 : 2,Sheffield United,Завершен,england-premier-league-2019-2020
+225,07.12.2019,Manchester City,1 : 2,Manchester United,Завершен,england-premier-league-2019-2020
+226,07.12.2019,AFC Bournemouth,0 : 3,Liverpool,Завершен,england-premier-league-2019-2020
+227,07.12.2019,Tottenham Hotspur,5 : 0,Burnley,Завершен,england-premier-league-2019-2020
+228,07.12.2019,Watford,0 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+229,07.12.2019,Everton,3 : 1,Chelsea,Завершен,england-premier-league-2019-2020
+230,05.12.2019,Arsenal,1 : 2,Brighton,Завершен,england-premier-league-2019-2020
+231,05.12.2019,Sheffield United,0 : 2,Newcastle United,Завершен,england-premier-league-2019-2020
+232,04.12.2019,Liverpool,5 : 2,Everton,Завершен,england-premier-league-2019-2020
+233,04.12.2019,Leicester City,2 : 0,Watford,Завершен,england-premier-league-2019-2020
+234,04.12.2019,Wolverhampton,2 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+235,04.12.2019,Manchester United,2 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+236,04.12.2019,Chelsea,2 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+237,04.12.2019,Southampton,2 : 1,Norwich City,Завершен,england-premier-league-2019-2020
+238,03.12.2019,Burnley,1 : 4,Manchester City,Завершен,england-premier-league-2019-2020
+239,03.12.2019,Crystal Palace,1 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+240,01.12.2019,Leicester City,2 : 1,Everton,Завершен,england-premier-league-2019-2020
+241,01.12.2019,Manchester United,2 : 2,Aston Villa,Завершен,england-premier-league-2019-2020
+242,01.12.2019,Norwich City,2 : 2,Arsenal,Завершен,england-premier-league-2019-2020
+243,01.12.2019,Wolverhampton,1 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+244,30.11.2019,Southampton,2 : 1,Watford,Завершен,england-premier-league-2019-2020
+245,30.11.2019,Burnley,0 : 2,Crystal Palace,Завершен,england-premier-league-2019-2020
+246,30.11.2019,Chelsea,0 : 1,West Ham United,Завершен,england-premier-league-2019-2020
+247,30.11.2019,Liverpool,2 : 1,Brighton,Завершен,england-premier-league-2019-2020
+248,30.11.2019,Tottenham Hotspur,3 : 2,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+249,30.11.2019,Newcastle United,2 : 2,Manchester City,Завершен,england-premier-league-2019-2020
+250,25.11.2019,Aston Villa,2 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+251,24.11.2019,Sheffield United,3 : 3,Manchester United,Завершен,england-premier-league-2019-2020
+252,23.11.2019,Manchester City,2 : 1,Chelsea,Завершен,england-premier-league-2019-2020
+253,23.11.2019,AFC Bournemouth,1 : 2,Wolverhampton,Завершен,england-premier-league-2019-2020
+254,23.11.2019,Arsenal,2 : 2,Southampton,Завершен,england-premier-league-2019-2020
+255,23.11.2019,Brighton,0 : 2,Leicester City,Завершен,england-premier-league-2019-2020
+256,23.11.2019,Crystal Palace,1 : 2,Liverpool,Завершен,england-premier-league-2019-2020
+257,23.11.2019,Everton,0 : 2,Norwich City,Завершен,england-premier-league-2019-2020
+258,23.11.2019,Watford,0 : 3,Burnley,Завершен,england-premier-league-2019-2020
+259,23.11.2019,West Ham United,2 : 3,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+260,10.11.2019,Liverpool,3 : 1,Manchester City,Завершен,england-premier-league-2019-2020
+261,10.11.2019,Manchester United,3 : 1,Brighton,Завершен,england-premier-league-2019-2020
+262,10.11.2019,Wolverhampton,2 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+263,09.11.2019,Leicester City,2 : 0,Arsenal,Завершен,england-premier-league-2019-2020
+264,09.11.2019,Burnley,3 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+265,09.11.2019,Newcastle United,2 : 1,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+266,09.11.2019,Southampton,1 : 2,Everton,Завершен,england-premier-league-2019-2020
+267,09.11.2019,Tottenham Hotspur,1 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+268,09.11.2019,Chelsea,2 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+269,08.11.2019,Norwich City,0 : 2,Watford,Завершен,england-premier-league-2019-2020
+270,03.11.2019,Everton,1 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+271,03.11.2019,Crystal Palace,0 : 2,Leicester City,Завершен,england-premier-league-2019-2020
+272,02.11.2019,Watford,1 : 2,Chelsea,Завершен,england-premier-league-2019-2020
+273,02.11.2019,Arsenal,1 : 1,Wolverhampton,Завершен,england-premier-league-2019-2020
+274,02.11.2019,Aston Villa,1 : 2,Liverpool,Завершен,england-premier-league-2019-2020
+275,02.11.2019,Brighton,2 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+276,02.11.2019,Manchester City,2 : 1,Southampton,Завершен,england-premier-league-2019-2020
+277,02.11.2019,Sheffield United,3 : 0,Burnley,Завершен,england-premier-league-2019-2020
+278,02.11.2019,West Ham United,2 : 3,Newcastle United,Завершен,england-premier-league-2019-2020
+279,02.11.2019,AFC Bournemouth,1 : 0,Manchester United,Завершен,england-premier-league-2019-2020
+280,27.10.2019,Arsenal,2 : 2,Crystal Palace,Завершен,england-premier-league-2019-2020
+281,27.10.2019,Liverpool,2 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+282,27.10.2019,Norwich City,1 : 3,Manchester United,Завершен,england-premier-league-2019-2020
+283,27.10.2019,Newcastle United,1 : 1,Wolverhampton,Завершен,england-premier-league-2019-2020
+284,26.10.2019,Burnley,2 : 4,Chelsea,Завершен,england-premier-league-2019-2020
+285,26.10.2019,Brighton,3 : 2,Everton,Завершен,england-premier-league-2019-2020
+286,26.10.2019,Watford,0 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+287,26.10.2019,West Ham United,1 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+288,26.10.2019,Manchester City,3 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+289,25.10.2019,Southampton,0 : 9,Leicester City,Завершен,england-premier-league-2019-2020
+290,21.10.2019,Sheffield United,1 : 0,Arsenal,Завершен,england-premier-league-2019-2020
+291,20.10.2019,Manchester United,1 : 1,Liverpool,Завершен,england-premier-league-2019-2020
+292,19.10.2019,Crystal Palace,0 : 2,Manchester City,Завершен,england-premier-league-2019-2020
+293,19.10.2019,AFC Bournemouth,0 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+294,19.10.2019,Aston Villa,2 : 1,Brighton,Завершен,england-premier-league-2019-2020
+295,19.10.2019,Chelsea,1 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+296,19.10.2019,Leicester City,2 : 1,Burnley,Завершен,england-premier-league-2019-2020
+297,19.10.2019,Tottenham Hotspur,1 : 1,Watford,Завершен,england-premier-league-2019-2020
+298,19.10.2019,Wolverhampton,1 : 1,Southampton,Завершен,england-premier-league-2019-2020
+299,19.10.2019,Everton,2 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+300,06.10.2019,Newcastle United,1 : 0,Manchester United,Завершен,england-premier-league-2019-2020
+301,06.10.2019,Arsenal,1 : 0,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+302,06.10.2019,Manchester City,0 : 2,Wolverhampton,Завершен,england-premier-league-2019-2020
+303,06.10.2019,Southampton,1 : 4,Chelsea,Завершен,england-premier-league-2019-2020
+304,05.10.2019,West Ham United,1 : 2,Crystal Palace,Завершен,england-premier-league-2019-2020
+305,05.10.2019,Burnley,1 : 0,Everton,Завершен,england-premier-league-2019-2020
+306,05.10.2019,Liverpool,2 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+307,05.10.2019,Norwich City,1 : 5,Aston Villa,Завершен,england-premier-league-2019-2020
+308,05.10.2019,Watford,0 : 0,Sheffield United,Завершен,england-premier-league-2019-2020
+309,05.10.2019,Brighton,3 : 0,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+310,30.09.2019,Manchester United,1 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+311,29.09.2019,Leicester City,5 : 0,Newcastle United,Завершен,england-premier-league-2019-2020
+312,28.09.2019,Everton,1 : 3,Manchester City,Завершен,england-premier-league-2019-2020
+313,28.09.2019,AFC Bournemouth,2 : 2,West Ham United,Завершен,england-premier-league-2019-2020
+314,28.09.2019,Aston Villa,2 : 2,Burnley,Завершен,england-premier-league-2019-2020
+315,28.09.2019,Chelsea,2 : 0,Brighton,Завершен,england-premier-league-2019-2020
+316,28.09.2019,Crystal Palace,2 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+317,28.09.2019,Tottenham Hotspur,2 : 1,Southampton,Завершен,england-premier-league-2019-2020
+318,28.09.2019,Wolverhampton,2 : 0,Watford,Завершен,england-premier-league-2019-2020
+319,28.09.2019,Sheffield United,0 : 1,Liverpool,Завершен,england-premier-league-2019-2020
+320,22.09.2019,Arsenal,3 : 2,Aston Villa,Завершен,england-premier-league-2019-2020
+321,22.09.2019,Chelsea,1 : 2,Liverpool,Завершен,england-premier-league-2019-2020
+322,22.09.2019,Crystal Palace,1 : 1,Wolverhampton,Завершен,england-premier-league-2019-2020
+323,22.09.2019,West Ham United,2 : 0,Manchester United,Завершен,england-premier-league-2019-2020
+324,21.09.2019,Newcastle United,0 : 0,Brighton,Завершен,england-premier-league-2019-2020
+325,21.09.2019,Burnley,2 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+326,21.09.2019,Everton,0 : 2,Sheffield United,Завершен,england-premier-league-2019-2020
+327,21.09.2019,Manchester City,8 : 0,Watford,Завершен,england-premier-league-2019-2020
+328,21.09.2019,Leicester City,2 : 1,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+329,20.09.2019,Southampton,1 : 3,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+330,16.09.2019,Aston Villa,0 : 0,West Ham United,Завершен,england-premier-league-2019-2020
+331,15.09.2019,Watford,2 : 2,Arsenal,Завершен,england-premier-league-2019-2020
+332,15.09.2019,AFC Bournemouth,3 : 1,Everton,Завершен,england-premier-league-2019-2020
+333,14.09.2019,Norwich City,3 : 2,Manchester City,Завершен,england-premier-league-2019-2020
+334,14.09.2019,Brighton,1 : 1,Burnley,Завершен,england-premier-league-2019-2020
+335,14.09.2019,Manchester United,1 : 0,Leicester City,Завершен,england-premier-league-2019-2020
+336,14.09.2019,Sheffield United,0 : 1,Southampton,Завершен,england-premier-league-2019-2020
+337,14.09.2019,Tottenham Hotspur,4 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+338,14.09.2019,Wolverhampton,2 : 5,Chelsea,Завершен,england-premier-league-2019-2020
+339,14.09.2019,Liverpool,3 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+340,01.09.2019,Arsenal,2 : 2,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+341,01.09.2019,Everton,3 : 2,Wolverhampton,Завершен,england-premier-league-2019-2020
+342,31.08.2019,Burnley,0 : 3,Liverpool,Завершен,england-premier-league-2019-2020
+343,31.08.2019,Chelsea,2 : 2,Sheffield United,Завершен,england-premier-league-2019-2020
+344,31.08.2019,Crystal Palace,1 : 0,Aston Villa,Завершен,england-premier-league-2019-2020
+345,31.08.2019,Leicester City,3 : 1,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+346,31.08.2019,Manchester City,4 : 0,Brighton,Завершен,england-premier-league-2019-2020
+347,31.08.2019,Newcastle United,1 : 1,Watford,Завершен,england-premier-league-2019-2020
+348,31.08.2019,West Ham United,2 : 0,Norwich City,Завершен,england-premier-league-2019-2020
+349,31.08.2019,Southampton,1 : 1,Manchester United,Завершен,england-premier-league-2019-2020
+350,25.08.2019,Tottenham Hotspur,0 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+351,25.08.2019,Wolverhampton,1 : 1,Burnley,Завершен,england-premier-league-2019-2020
+352,25.08.2019,AFC Bournemouth,1 : 3,Manchester City,Завершен,england-premier-league-2019-2020
+353,24.08.2019,Liverpool,3 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+354,24.08.2019,Brighton,0 : 2,Southampton,Завершен,england-premier-league-2019-2020
+355,24.08.2019,Manchester United,1 : 2,Crystal Palace,Завершен,england-premier-league-2019-2020
+356,24.08.2019,Sheffield United,1 : 2,Leicester City,Завершен,england-premier-league-2019-2020
+357,24.08.2019,Watford,1 : 3,West Ham United,Завершен,england-premier-league-2019-2020
+358,24.08.2019,Norwich City,2 : 3,Chelsea,Завершен,england-premier-league-2019-2020
+359,23.08.2019,Aston Villa,2 : 0,Everton,Завершен,england-premier-league-2019-2020
+360,19.08.2019,Wolverhampton,1 : 1,Manchester United,Завершен,england-premier-league-2019-2020
+361,18.08.2019,Chelsea,1 : 1,Leicester City,Завершен,england-premier-league-2019-2020
+362,18.08.2019,Sheffield United,1 : 0,Crystal Palace,Завершен,england-premier-league-2019-2020
+363,17.08.2019,Manchester City,2 : 2,Tottenham Hotspur,Завершен,england-premier-league-2019-2020
+364,17.08.2019,Aston Villa,1 : 2,AFC Bournemouth,Завершен,england-premier-league-2019-2020
+365,17.08.2019,Brighton,1 : 1,West Ham United,Завершен,england-premier-league-2019-2020
+366,17.08.2019,Everton,1 : 0,Watford,Завершен,england-premier-league-2019-2020
+367,17.08.2019,Norwich City,3 : 1,Newcastle United,Завершен,england-premier-league-2019-2020
+368,17.08.2019,Southampton,1 : 2,Liverpool,Завершен,england-premier-league-2019-2020
+369,17.08.2019,Arsenal,2 : 1,Burnley,Завершен,england-premier-league-2019-2020
+370,11.08.2019,Manchester United,4 : 0,Chelsea,Завершен,england-premier-league-2019-2020
+371,11.08.2019,Leicester City,0 : 0,Wolverhampton,Завершен,england-premier-league-2019-2020
+372,11.08.2019,Newcastle United,0 : 1,Arsenal,Завершен,england-premier-league-2019-2020
+373,10.08.2019,Tottenham Hotspur,3 : 1,Aston Villa,Завершен,england-premier-league-2019-2020
+374,10.08.2019,AFC Bournemouth,1 : 1,Sheffield United,Завершен,england-premier-league-2019-2020
+375,10.08.2019,Burnley,3 : 0,Southampton,Завершен,england-premier-league-2019-2020
+376,10.08.2019,Crystal Palace,0 : 0,Everton,Завершен,england-premier-league-2019-2020
+377,10.08.2019,Watford,0 : 3,Brighton,Завершен,england-premier-league-2019-2020
+378,10.08.2019,West Ham United,0 : 5,Manchester City,Завершен,england-premier-league-2019-2020
+379,09.08.2019,Liverpool,4 : 1,Norwich City,Завершен,england-premier-league-2019-2020
